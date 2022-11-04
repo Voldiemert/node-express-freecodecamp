@@ -1,3 +1,4 @@
+// Comment for test commit
 const amount = 9
 
 if (amount < 10) {
